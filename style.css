@@ -1,0 +1,22 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 99vh;
+    width: 99vw;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*
+
+#gameWindow {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    border: solid red 2px;
+}
+*/
